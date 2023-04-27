@@ -1,2 +1,2 @@
-# Seanet 1
+# Seanet 
 Company Outline
